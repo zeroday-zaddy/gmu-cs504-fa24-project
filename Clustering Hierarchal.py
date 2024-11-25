@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the dataset
-data = pd.read_csv('C:/Users/singh/Documents/CS504/Project/Sprint 3/Dataset/COVID-19_Case_Surveillance_Public_Use_Data_with_Geography_20241111.csv')
+data = pd.read_csv('/data/COVID-19_Case_Surveillance_Public_Use_Data_with_Geography_20241111.csv')
 print(f"Initial dataset shape: {data.shape}")
 
 # Selecting relevant features for clustering
