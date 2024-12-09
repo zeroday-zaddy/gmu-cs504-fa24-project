@@ -1,3 +1,4 @@
 .vscode
 data/COVID-19_Case_Surveillance_Public_Use_Data_with_Geography_20241201.csv
 data/covid_geo_full_dataset.pkl
+.DS_Store
